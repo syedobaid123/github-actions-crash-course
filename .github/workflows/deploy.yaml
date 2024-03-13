@@ -1,7 +1,7 @@
 name: CI/CD for React App
 
 on:
-  push: main
+  push: 
     branches: [main]
   workflow_dispatch:
 
